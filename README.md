@@ -23,6 +23,6 @@ Languages/Framework Used:
  To see requests:  
  ->inspect the page  
  ->go to NETWORKS  
- ->select Fetch/XHR to see all the requests
-  
-
+ ->select Fetch/XHR to see all the requests  
+    
+Project Deployed on:https://basic-backend-react.vercel.app/
